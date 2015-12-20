@@ -1,0 +1,11 @@
+Availability Heiuristic{ 
+Ease of Recall bias:if something is more easily recalled in memory it must occur with a higher probability. The retrievability and ease of recall biases indicate that the availability bias can substantially and unconsciously influence our judgement. We too easily assume that our recollections are representative and true and discount eents that are outside of our immediate memory. 
+Retrievability: The more we are exposed to something the easier it is to recall in our minds. 
+}
+
+Representativeness Heuristic{
+Bias from Insensitivity to base rates: Base rate put simply is the probability that something is true unconditional of other factors. The example that is brought up is that if that if you are deciding if someone is a librarian or a salesman you should first look at how many salesman there are compared to librarian before you make a decision on any other factors. 
+Bias from Insensitivity to Sample Size: Large sample sizes that take into account statistics is important, but often we don't understand the difference between a sample size of 200 and 3,000. We think that 200 might be a relevant sample size. 
+Misconceptions of chance: We expect the immediate outcome of events to represent the broader outcomes expected from a large number of trials. We believe that chance events will immediately self-correct and that small sample sizes are representative of the populations from which they draw. Product. 
+Reversion to the mean: in any series with complex phenomena that are dependent on many variables, where chance is involved, extreme outcomes tend to be followed by more moderate ones. People. A skills training program to improve a low performing employees skills could be an example of this bias. Need to measure it against mean performing employees also. 
+ 
